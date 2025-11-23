@@ -1,4 +1,4 @@
-🚀 Hive Assignment
+🚀 Assignment
 
 Author: Ayush Sharma
 
