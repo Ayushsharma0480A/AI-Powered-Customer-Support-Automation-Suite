@@ -1,0 +1,5 @@
+To configure automations in Hiver, go to the Admin Panel.
+Navigate to the Automations section.
+You can create rules based on conditions like subject, tags, or sender.
+Actions include assigning emails, adding tags, updating status, or sending auto-replies.
+Make sure to enable the rule after saving it.

@@ -1,0 +1,4 @@
+If emails are not being received, verify if the mailbox is connected properly.
+Check SPF, DKIM, and DMARC records.
+Emails may land in spam due to missing authentication records.
+Use the email deliverability checker in settings to diagnose issues.

@@ -1,0 +1,15 @@
+customer_id,subject,body,tag
+1,"Payment failed","I tried paying using my card but the payment keeps failing.","payment-failed"
+1,"Double charge issue","I have been charged twice for the same invoice. Please process a refund.","refund"
+1,"Invoice copy","Please share the invoice for last month.","billing"
+1,"Tax details needed","Need GST details added to invoice.","billing"
+
+2,"Unable to login","I reset my password but still cannot login.","auth-issue"
+2,"Reset link not received","Password reset link is not coming to my email.","auth-issue"
+2,"Not receiving emails","We are not receiving support emails in our shared inbox.","deliverability"
+2,"Mailbox setup help","Need help setting up shared mailbox for our team.","onboarding"
+
+3,"Emails landing in spam","Customer replies are going to spam folder.","spam"
+3,"Automation not working","Auto-assign rules are not triggering.","automation-issue"
+3,"CSAT missing","CSAT scores not appearing in the dashboard.","csat-issue"
+3,"Workflow delay","Our workflow rules are executing after long delays.","automation-issue"

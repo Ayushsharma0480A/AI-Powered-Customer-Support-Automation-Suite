@@ -1,0 +1,4 @@
+Automation rules may be delayed during high load.
+Check if multiple rules conflict with each other.
+Rule execution logs can be found under Automations > Logs.
+Disable unused rules to improve performance.

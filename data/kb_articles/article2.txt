@@ -1,0 +1,4 @@
+CSAT scores may not appear if the CSAT feature is disabled for the mailbox.
+Ensure that CSAT surveys are turned on in the Admin CSAT settings.
+CSAT responses may take a few minutes to sync.
+If no emails requesting feedback have been sent, CSAT may show no data.

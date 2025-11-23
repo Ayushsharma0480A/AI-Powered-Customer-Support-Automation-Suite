@@ -1,0 +1,4 @@
+If a user cannot login, confirm their email is added to the workspace.
+Password reset emails may be blocked by spam filters.
+Ask the user to check the spam folder.
+If the issue persists, contact support with logs.

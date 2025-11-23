@@ -1,0 +1,6 @@
+pandas
+numpy
+jupyterlab
+openai
+sentence-transformers
+faiss-cpu
